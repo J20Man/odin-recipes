@@ -2,11 +2,22 @@ body {
     background-color: palevioletred;
 }
 
-div {
-    color: white;
-    background-color: black;
+.btn {
+    margin-left: 500px;
+}
+.title.ribbon {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
 }
 
-p {
-    color: red;
+.title {
+    color: brown;
+    text-align: center;
+}
+
+.ribbon {
+    color: yellow;
 }
